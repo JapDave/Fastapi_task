@@ -20,8 +20,8 @@ FASTAPI_TASK/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jikadarajaydeep/Fastapi_task.git
-cd fastapi-blogging-app
+git clone https://github.com/JapDave/Fastapi_task.git
+cd Fastapi_task
 
 pip install -r requirements.txt
 uvicorn app:app --reload
