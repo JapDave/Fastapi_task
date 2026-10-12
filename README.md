@@ -38,3 +38,7 @@ Tests cover password storage, duplicate signup, failed login, token rotation, pr
 This is a learning/reference API, not a complete production identity system. Tokens are stored in the database and have no expiry; token revocation, rate limiting, deployment configuration and schema migrations are future work. Use HTTPS and a suitable identity design before exposing it publicly.
 
 A GitHub Actions test template is provided in `docs/ci/tests.yml`. To enable it, copy it to `.github/workflows/tests.yml`.
+
+## Maintainer
+
+[Jap Dave](https://github.com/JapDave) · Python Backend Developer · [Contact](mailto:japdavev@gmail.com)
